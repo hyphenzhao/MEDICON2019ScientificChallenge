@@ -10,7 +10,3 @@ Abstract.Event-Related  Potential  (ERP)  based  Brain-Computer  In-terfaces  (B
 1. Feature Extraction: 0-600ms
 2. 20Hz Butterworth Low-pass Filter
 3. Linear Discriminant Analysis
-
-## Other Outcomes
-1. Can recurrent neural network enhanced EEGNet improve the accuracy of ERP classification task? An exploration and a discussion
-(DOI: 10.1007/s12553-020-00458-x, Accepted on 26th, June, 2020)
